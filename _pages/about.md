@@ -12,6 +12,6 @@ I'm a forth year undergraduate student from [school of intelligence science and 
 
 [Email](mailto:41926156@xs.ustb.edu.cn)
 
-[Wechat](../image/Wechat.jpg)
+[Wechat](./images/Wechat.jpg)
 
-You can find my CV here: [Jason_Liu's resume](../assets/LiuJiahang.pdf)
+You can find my CV here: [Jason_Liu's resume](./assets/LiuJiahang.pdf)
